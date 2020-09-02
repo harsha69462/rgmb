@@ -1,0 +1,18 @@
+.special{
+  background: crimson;
+}
+.linkhover:hover{
+  color : crimson;
+  background: yellow;
+
+}
+.color-white{
+  color: white;
+}
+.color-white:hover{
+  color: crimson;
+}
+.user-img{
+  height: 250px;
+  width: 250px;
+}
